@@ -22,15 +22,6 @@ Move the bear, shoot arrows, and keep your balloon safe as long as possible.
 - Professional UI with bold fonts and clear colors.
 
 ---
-
-## ✅ Requirements
-- Python 3.x
-- Pygame library
-
-Install Pygame:
-```bash
-pip install pygame
-
 ## ✅ Screenshot
 
 Here’s what the game looks like:
@@ -40,4 +31,13 @@ Here’s what the game looks like:
 </p>
 
 *(Replace `screenshot.png` with the actual name of your screenshot file if it’s different.)*
+## ✅ Requirements
+- Python 3.x
+- Pygame library
+
+Install Pygame:
+```bash
+pip install pygame
+
+
 
