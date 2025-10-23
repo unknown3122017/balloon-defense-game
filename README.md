@@ -31,6 +31,7 @@ Here’s what the game looks like:
 </p>
 
 *(Replace `screenshot.png` with the actual name of your screenshot file if it’s different.)*
+
 ## ✅ Requirements
 - Python 3.x
 - Pygame library
@@ -38,6 +39,7 @@ Here’s what the game looks like:
 Install Pygame:
 ```bash
 pip install pygame
+
 
 
 
