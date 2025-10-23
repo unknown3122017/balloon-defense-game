@@ -29,4 +29,13 @@ Move the bear, shoot arrows, and keep your balloon safe as long as possible.
 
 Install Pygame:
 ```bash
-pip install pygame
+"pip install pygame"
+
+
+## ✅ Screenshot
+
+<p align="center">
+  <img src="screenshot
+*(Replace `screenshot.png` with the actual name of your screenshot file if it’s different.)*
+
+
